@@ -1,0 +1,364 @@
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\bin\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\obj\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_HNG\obj\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.1.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.1.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DA_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\DA_BackOffice\obj\Debug\DA_BackOffice.pdb

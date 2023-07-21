@@ -1,0 +1,115 @@
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\bin\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\bin\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\obj\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_HNG\obj\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - copia\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\FUENTES\Projects\BackOffice\ult\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\HP\source\source\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\0602\BCKOFFICE-CORRECCIONES\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\HP\source\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice-20230212T043436Z-001\IMPERIUM-BackOffice\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - MIRIAM\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\BE_BackOffice.pdb
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.AssemblyReference.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.csproj.CopyComplete
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.dll
+C:\Users\MIRIAM MEJIA\source\IMPERIUM-BackOffice - ACTUAL\BE_BackOffice\obj\Debug\BE_BackOffice.pdb
